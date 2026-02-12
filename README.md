@@ -134,7 +134,8 @@ This setup simulates a real-world cloud server environment.
 
 ## 📷 Screenshots
 ### Service status output
-<img width="1917" height="274" alt="Screenshot 2026-02-11 231001" src="https://github.com/user-attachments/assets/60c7ca45-790f-4146-9429-e066c5628ba6" />
+
+<img width="1917" height="274" alt="Screenshot 2026-02-11 231001" src="https://github.com/user-attachments/assets/30067fd3-94e5-4034-aefd-ed41039ebaf4" />
 
 ### Log file content
 
